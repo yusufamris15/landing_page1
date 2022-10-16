@@ -9,3 +9,22 @@ body {
   h5 {
       color: white;
   }
+
+  .slider1 img {
+      position: relative;
+  }
+
+  .buttonslider1 {
+      position: absolute;
+      left: 590px;
+      bottom: 150px;
+
+  }
+
+  @media screen and (max-width: 302px) {
+    .buttonslider1 {
+        position: absolute;
+        left: 30px;
+        bottom: 60px;
+    }
+  }
