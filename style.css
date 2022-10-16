@@ -10,7 +10,7 @@ body {
       color: white;
   }
 
-  .slider1 img {
+  /* .slider1 img {
       position: relative;
   }
 
@@ -19,12 +19,4 @@ body {
       left: 590px;
       bottom: 150px;
 
-  }
-
-  @media screen and (max-width: 302px) {
-    .buttonslider1 {
-        position: absolute;
-        left: 30px;
-        bottom: 60px;
-    }
-  }
+  } */
